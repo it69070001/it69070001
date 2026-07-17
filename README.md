@@ -6,3 +6,5 @@
 
 # Nice To meet You
 - hope we learning every days
+- see you
+  
